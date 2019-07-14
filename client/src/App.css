@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.allFiles {
+  width: 50vw;
+  min-height: 40vh;
+  border: 2px solid grey;
+  margin: auto;
+}
+
+.decorationLine {
+  text-decoration: line-through;
+}
