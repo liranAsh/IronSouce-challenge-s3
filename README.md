@@ -1,7 +1,7 @@
 # IronSouce-challenge-s3
 ##### Fun and challenged project for IronSource job interview.
- 
- 
+###### Note: I don't invested on client side because it doesn't the purpose of mission
+
 ## Installation
 ### 1. Clone project
 ```
