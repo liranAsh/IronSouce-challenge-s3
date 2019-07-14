@@ -1,12 +1,6 @@
 const chai = require('chai')
-const sinon = require('sinon')
 const filesLogic = require('../../logics/filesLogic')
-/**
- * I don't find a way to test "files" object because we not realy save it
- * into a file or db. -- Needs refactor
- * "files" object, can't change in reference because 'require' function create "files" object in a new scope.
- * Sorry, but I'm running out of time and can't refactoring now..
- */
+
 describe("Files Logic", () => {
 
     const filename = "someFilename.som"
